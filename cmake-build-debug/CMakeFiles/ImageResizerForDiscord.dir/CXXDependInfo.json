@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/Kareem/CLionProjects/ImageResizerForDiscord/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Kareem/CLionProjects/ImageResizerForDiscord",
+	"dir-top-bld" : "C:/Users/Kareem/CLionProjects/ImageResizerForDiscord/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Kareem/CLionProjects/ImageResizerForDiscord",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\tools\\opencv\\build\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Kareem/CLionProjects/ImageResizerForDiscord/cmake-build-debug/CMakeFiles/ImageResizerForDiscord.dir"
+}

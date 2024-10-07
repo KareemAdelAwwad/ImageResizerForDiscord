@@ -1,0 +1,3 @@
+C:/Users/Kareem/CLionProjects/ImageResizerForDiscord/cmake-build-debug/CMakeFiles/ImageResizerForDiscord.dir
+C:/Users/Kareem/CLionProjects/ImageResizerForDiscord/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kareem/CLionProjects/ImageResizerForDiscord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
